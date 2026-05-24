@@ -49,7 +49,7 @@ iframe {
   max-width: 100%;
 }
 
-section {
+section,footer {
   position: relative;
 }
 
@@ -1229,6 +1229,7 @@ h3 {
 }
 
 /* ── FOOTER ─────────────────────────────────────────── */
+
 .site-footer {
   background: #f0f4ff;
   padding: 2rem 0 2rem;
